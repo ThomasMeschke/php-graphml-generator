@@ -1,0 +1,18 @@
+{
+    "name": "thomasmeschke/php-graphml-generator",
+    "description": "A handy tool to generate graphml files from PHP sourcecode",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "thomasmeschke\\PhpGraphmlGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas Meschke",
+            "email": "thomas.meschke@googlemail.com"
+        }
+    ],
+    "require": {}
+}
